@@ -1,0 +1,13 @@
+﻿INVOICE
+
+Invoice Number: INV-001
+Date: 07 August 2026
+
+Vendor: ABC Technologies Pvt Ltd
+Customer: XYZ Company
+
+Item              Quantity    Price
+Laptop            1           50000
+Mouse             2           1000
+
+Total Amount: 52000
